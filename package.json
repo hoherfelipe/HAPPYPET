@@ -1,0 +1,26 @@
+{
+  "name": "happypet",
+  "version": "1.0.0",
+  "description": "Semana NLW #3 - projeto inicialmente HAPPY. Alterado para que fosse encontrado ONGs de animais na região.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "sqlite-async": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoherfelipe/HAPPYPET.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoherfelipe/HAPPYPET/issues"
+  },
+  "homepage": "https://github.com/hoherfelipe/HAPPYPET#readme"
+}
